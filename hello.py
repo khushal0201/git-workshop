@@ -8,3 +8,5 @@ for i in range(int(cc)):
     print(name)
 
 print("hello vvv")
+print("hello Narendra")
+print("someth")
