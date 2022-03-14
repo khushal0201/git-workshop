@@ -10,3 +10,5 @@ for i in range(int(cc)):
 print("hello vvv")
 print("hello Narendra")
 print("someth")
+
+print("another one")
